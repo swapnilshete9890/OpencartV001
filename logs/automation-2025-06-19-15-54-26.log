@@ -1,0 +1,49 @@
+14:11:30.980 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:15:04.806 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\crossbrowsertesting.xml
+
+14:15:07.833 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:15:09.859 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:15:15.013 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:15:17.654 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:16:09.807 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\crossbrowsertesting.xml
+
+14:16:13.703 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:16:16.904 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:16:18.789 [TestNG-tests-2] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:16:20.652 [TestNG-tests-2] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:17:49.365 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\crossbrowsertesting.xml
+
+14:17:54.409 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:17:57.680 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:17:58.540 [TestNG-tests-2] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:18:00.751 [TestNG-tests-2] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:20:29.356 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\crossbrowsertesting.xml
+
+14:20:33.319 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:20:36.752 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:20:38.320 [TestNG-tests-2] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:20:40.670 [TestNG-tests-2] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:23:39.918 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\crossbrowsertesting.xml
+
+14:23:42.780 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:23:45.754 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:23:47.389 [TestNG-tests-2] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:23:49.037 [TestNG-tests-2] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:37:07.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\crossbrowsertesting.xml
+
+14:37:11.133 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:37:11.356 [TestNG-tests-3] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:37:14.135 [TestNG-tests-1] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:37:14.317 [TestNG-tests-3] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+14:37:15.851 [TestNG-tests-2] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+14:37:17.760 [TestNG-tests-2] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+15:54:26.040 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+15:54:26.044 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+15:54:26.047 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+15:54:26.047 [main] INFO  org.testng.internal.Utils - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.

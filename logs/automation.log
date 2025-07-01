@@ -1,0 +1,36 @@
+18:47:24.637 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+18:48:01.200 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\grid-docker.xml
+
+18:48:06.515 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+18:48:09.328 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+18:48:20.028 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:48:25.168 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+18:48:36.964 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+18:48:39.114 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+18:48:52.172 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:48:56.858 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+18:51:21.486 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\grid-docker.xml
+
+18:51:25.702 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+18:51:28.898 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+18:51:31.395 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:51:37.017 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+18:51:49.265 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+18:51:53.932 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+16:53:24.631 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+16:53:40.135 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+16:53:45.558 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+16:54:36.139 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+16:54:39.300 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+16:54:43.042 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+16:54:48.340 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+17:36:57.580 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+17:37:01.510 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+17:37:12.542 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+17:37:16.886 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+17:50:02.255 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+17:50:05.897 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+17:50:11.130 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+17:50:17.022 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****

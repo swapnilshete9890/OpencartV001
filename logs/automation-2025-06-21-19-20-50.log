@@ -1,0 +1,63 @@
+18:46:25.454 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+18:46:37.299 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+18:46:37.304 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+18:46:48.970 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+18:46:48.978 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+18:47:00.776 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+18:47:00.785 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+18:47:03.533 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+18:49:25.758 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\master.xml
+
+18:49:38.272 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+18:49:41.437 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+18:49:41.447 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+18:49:53.428 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+18:49:53.433 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+18:50:05.149 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+18:50:05.155 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+18:50:17.088 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+18:50:17.093 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+18:50:20.344 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+18:50:20.352 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+18:50:32.508 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+18:50:32.513 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC_003_LoginDDT *****
+18:50:44.417 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC_003_LoginDDT *****
+19:04:08.507 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\grouping.xml
+
+19:06:01.276 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\grouping.xml
+
+19:06:09.700 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+19:06:12.994 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+19:06:16.287 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:06:18.226 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+19:08:29.541 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\grouping.xml
+
+19:08:33.133 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+19:08:36.298 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+19:08:39.189 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:10:17.968 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\grouping.xml
+
+19:10:24.612 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+19:10:27.569 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+19:10:30.747 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:13:08.629 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\grouping.xml
+
+19:13:12.287 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+19:13:15.329 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+19:13:19.845 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:13:25.257 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC_002_LoginTest *****
+19:13:54.372 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\grouping.xml
+
+19:13:58.870 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Starting TC001_AccountResgistrationTest **********
+19:14:01.941 [main] INFO  testCases.TC001_AccountResgistrationTest - ********* Finished TC001_AccountResgistrationTest **********
+19:14:04.977 [main] INFO  testCases.TC002_LoginTest - ***** Starting TC_002_LoginTest *****
+19:20:46.704 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Software Testing\My Workspace\OpencartSDET2025\test-output\testng-failed.xml
+
